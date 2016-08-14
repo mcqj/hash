@@ -1,5 +1,5 @@
-var hash = require("./");
-var assert = require("assert");
+var hash = require('./');
+var assert = require('assert');
 
 describe('hash', function() {
   let testData = [
